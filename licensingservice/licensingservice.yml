@@ -2,10 +2,9 @@ example:
   property: "test example property test"
 spring:
   datasource:
-    name: spring_cloud_demo
     username: root
     password: "{cipher}7c49172ec471199116c0f5dfc5250b1780d2e603ab74c762c2fd996077e90cc5"
-    url: jdbc:mysql://localhost:3306
+    url: jdbc:mysql://localhost:3306/spring_cloud_demo
   jpa:
     properties:
       hibernate:
