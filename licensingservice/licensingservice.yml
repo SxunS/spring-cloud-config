@@ -1,5 +1,5 @@
 example:
-  property: "default example property test"
+  property: "test example property test"
 spring:
   datasource:
     name: spring_cloud_demo
