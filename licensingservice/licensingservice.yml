@@ -4,7 +4,7 @@ spring:
   datasource:
     name: spring_cloud_demo
     username: root
-    password: "{cipher}192bad2a6afe4eb2ce1fc67cfb16e2156417108cdbd5ed28eaa0bc2b5c10a570"
+    password: "{cipher}7c49172ec471199116c0f5dfc5250b1780d2e603ab74c762c2fd996077e90cc5"
     url: jdbc:mysql://localhost:3306
   jpa:
     properties:
